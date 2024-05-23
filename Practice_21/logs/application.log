@@ -1,0 +1,107 @@
+2024-05-23 06:20:04 - Starting Practice21Application using Java 20.0.2 with PID 26408 (C:\Users\oniwi\IdeaProjects\JavaTemplates\Practice_21\build\classes\java\main started by oniwi in C:\Users\oniwi\IdeaProjects\JavaTemplates\Practice_21)
+2024-05-23 06:20:04 - No active profile set, falling back to 1 default profile: "default"
+2024-05-23 06:20:05 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-23 06:20:05 - Finished Spring Data repository scanning in 150 ms. Found 2 JPA repository interfaces.
+2024-05-23 06:20:06 - Tomcat initialized with port 8080 (http)
+2024-05-23 06:20:06 - Starting service [Tomcat]
+2024-05-23 06:20:06 - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-23 06:20:06 - Initializing Spring embedded WebApplicationContext
+2024-05-23 06:20:06 - Root WebApplicationContext: initialization completed in 1607 ms
+2024-05-23 06:20:06 - HikariPool-1 - Starting...
+2024-05-23 06:20:06 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@1cee2e10
+2024-05-23 06:20:06 - HikariPool-1 - Start completed.
+2024-05-23 06:20:06 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-23 06:20:06 - HHH000412: Hibernate ORM core version 6.4.4.Final
+2024-05-23 06:20:06 - HHH000026: Second-level cache disabled
+2024-05-23 06:20:07 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-23 06:20:07 - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-05-23 06:20:07 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-23 06:20:07 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-23 06:20:08 - Informational log
+2024-05-23 06:20:08 - Warning log
+2024-05-23 06:20:08 - Error log
+2024-05-23 06:20:08 - Entering UniversityServiceImpl constructor
+2024-05-23 06:20:08 - Exiting UniversityServiceImpl constructor
+2024-05-23 06:20:08 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-23 06:20:08 - Tomcat started on port 8080 (http) with context path ''
+2024-05-23 06:20:08 - Started Practice21Application in 4.688 seconds (process running for 6.912)
+2024-05-23 06:22:22 - Starting Practice21Application using Java 20.0.2 with PID 30908 (C:\Users\oniwi\IdeaProjects\JavaTemplates\Practice_21\build\classes\java\main started by oniwi in C:\Users\oniwi\IdeaProjects\JavaTemplates\Practice_21)
+2024-05-23 06:22:22 - No active profile set, falling back to 1 default profile: "default"
+2024-05-23 06:22:22 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-23 06:22:22 - Finished Spring Data repository scanning in 144 ms. Found 2 JPA repository interfaces.
+2024-05-23 06:22:23 - Tomcat initialized with port 8080 (http)
+2024-05-23 06:22:23 - Starting service [Tomcat]
+2024-05-23 06:22:23 - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-23 06:22:23 - Initializing Spring embedded WebApplicationContext
+2024-05-23 06:22:23 - Root WebApplicationContext: initialization completed in 1521 ms
+2024-05-23 06:22:23 - HikariPool-1 - Starting...
+2024-05-23 06:22:24 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5cc1bf20
+2024-05-23 06:22:24 - HikariPool-1 - Start completed.
+2024-05-23 06:22:24 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-23 06:22:24 - HHH000412: Hibernate ORM core version 6.4.4.Final
+2024-05-23 06:22:24 - HHH000026: Second-level cache disabled
+2024-05-23 06:22:24 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-23 06:22:24 - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-05-23 06:22:25 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-23 06:22:25 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-23 06:22:25 - Informational log
+2024-05-23 06:22:25 - Warning log
+2024-05-23 06:22:25 - Error log
+2024-05-23 06:22:25 - Entering UniversityServiceImpl constructor
+2024-05-23 06:22:25 - Exiting UniversityServiceImpl constructor
+2024-05-23 06:22:25 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-23 06:22:26 - Tomcat started on port 8080 (http) with context path ''
+2024-05-23 06:22:26 - Started Practice21Application in 4.589 seconds (process running for 5.386)
+2024-05-23 07:05:31 - Could not detect default configuration classes for test class [ru.mirea.Practice_21.Practice21ApplicationTests]: Practice21ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-05-23 07:05:31 - Found @SpringBootConfiguration ru.mirea.Practice_21.Practice21Application for test class ru.mirea.Practice_21.Practice21ApplicationTests
+2024-05-23 07:05:32 - Starting Practice21ApplicationTests using Java 20.0.2 with PID 10808 (started by oniwi in C:\Users\oniwi\IdeaProjects\JavaTemplates\Practice_21)
+2024-05-23 07:05:32 - No active profile set, falling back to 1 default profile: "default"
+2024-05-23 07:05:33 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-23 07:05:33 - Finished Spring Data repository scanning in 163 ms. Found 2 JPA repository interfaces.
+2024-05-23 07:05:34 - HikariPool-1 - Starting...
+2024-05-23 07:05:34 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@4fd80300
+2024-05-23 07:05:34 - HikariPool-1 - Start completed.
+2024-05-23 07:05:34 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-23 07:05:34 - HHH000412: Hibernate ORM core version 6.4.4.Final
+2024-05-23 07:05:34 - HHH000026: Second-level cache disabled
+2024-05-23 07:05:35 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-23 07:05:35 - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-05-23 07:05:36 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-23 07:05:36 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-23 07:05:36 - Informational log
+2024-05-23 07:05:36 - Warning log
+2024-05-23 07:05:36 - Error log
+2024-05-23 07:05:36 - Entering UniversityServiceImpl constructor
+2024-05-23 07:05:36 - Exiting UniversityServiceImpl constructor
+2024-05-23 07:05:37 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-23 07:05:37 - Started Practice21ApplicationTests in 5.854 seconds (process running for 7.546)
+2024-05-23 07:05:38 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-23 07:05:38 - HikariPool-1 - Shutdown initiated...
+2024-05-23 07:05:38 - HikariPool-1 - Shutdown completed.
+2024-05-23 07:05:49 - Starting Practice21Application using Java 20.0.2 with PID 27660 (C:\Users\oniwi\IdeaProjects\JavaTemplates\Practice_21\build\classes\java\main started by oniwi in C:\Users\oniwi\IdeaProjects\JavaTemplates\Practice_21)
+2024-05-23 07:05:49 - No active profile set, falling back to 1 default profile: "default"
+2024-05-23 07:05:49 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-23 07:05:49 - Finished Spring Data repository scanning in 148 ms. Found 2 JPA repository interfaces.
+2024-05-23 07:05:50 - Tomcat initialized with port 8080 (http)
+2024-05-23 07:05:50 - Starting service [Tomcat]
+2024-05-23 07:05:50 - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-23 07:05:50 - Initializing Spring embedded WebApplicationContext
+2024-05-23 07:05:50 - Root WebApplicationContext: initialization completed in 1553 ms
+2024-05-23 07:05:50 - HikariPool-1 - Starting...
+2024-05-23 07:05:51 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@21274afe
+2024-05-23 07:05:51 - HikariPool-1 - Start completed.
+2024-05-23 07:05:51 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-23 07:05:51 - HHH000412: Hibernate ORM core version 6.4.4.Final
+2024-05-23 07:05:51 - HHH000026: Second-level cache disabled
+2024-05-23 07:05:51 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-23 07:05:51 - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-05-23 07:05:52 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-23 07:05:52 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-23 07:05:52 - Informational log
+2024-05-23 07:05:52 - Warning log
+2024-05-23 07:05:52 - Error log
+2024-05-23 07:05:52 - Entering UniversityServiceImpl constructor
+2024-05-23 07:05:52 - Exiting UniversityServiceImpl constructor
+2024-05-23 07:05:52 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-23 07:05:53 - Tomcat started on port 8080 (http) with context path ''
+2024-05-23 07:05:53 - Started Practice21Application in 4.479 seconds (process running for 5.034)
